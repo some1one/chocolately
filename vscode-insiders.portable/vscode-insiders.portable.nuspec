@@ -3,7 +3,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
     <id>vscode-insiders.portable</id>
-    <title>Visual Studio Code (Insiders) (Portable)</title>
+    <title>Visual Studio Code (Insiders, Portable)</title>
     <version>1.43.2</version>
     <authors>Microsoft</authors>
     <owners>chocolatey</owners>
